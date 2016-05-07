@@ -1,3 +1,9 @@
+# Custom
+*.build
+.vs
+*.VC.db
+*.ilk
+
 # Compiled Object files
 *.slo
 *.lo
